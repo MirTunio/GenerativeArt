@@ -6,7 +6,6 @@ float yc;
 
 void setup(){
   background(253,240,214);
-  //background(255);
   size(600,600);
   frameRate(500);
   strokeWeight(1.5);
