@@ -1,4 +1,6 @@
-import processing.pdf.*;
+//TUNIO 2018
+
+//import processing.pdf.*;
 
 int pts = 170;
 float gap = 0;
@@ -10,6 +12,7 @@ void setup(){
   size(900,900,P3D);
   background(255);
   gap = float(width)/pts;
+  strokeWeight(1);
   
   flowpoints = new flowpoint[11390625];
   int index = 0;
@@ -28,15 +31,15 @@ void setup(){
 }
 
 void draw(){
-  beginRaw(PDF, "AliasFlow1.pdf");
+  //beginRaw(PDF, "AliasFlow2.pdf");
   
   for(int i = 0; i < pointnum; i++){
     flowpoints[i].update(0,0,0);
   }
-  T+=0.001;
+  //T+=0.001;
   
-  endRaw();  
-  exit();
+  //endRaw();  
+  //exit();
 }
 
 
