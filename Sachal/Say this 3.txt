@@ -1,0 +1,30 @@
+https://bit.ly/347L8FC
+
+[Need coldcoolcalm spec]
+
+Generative Art:
+Instead of a brush stroke you set up several logical rules 
+to paint on the canvas. You logically describe what you wa
+nt to see. I have handed out the code for these scenes,
+and if you plug the code into a computer it will genuinely
+work. Parts of may read like verse or poetry.
+
+This specific work is not a music visualizer, or an
+animation, it is more of a meditation on the song and the 
+verse by Sachal Sarmast. So slow down, and try to absorb 
+it, rather than watch it.
+
+Thermal: [[HAVE AN EXAMPLE CUT IN YOUR HAND]]
+This part here I'll tell you what it does, and we can talk
+about why later.
+
+This is a thermal printer, for receipts. It will be printing
+what you see on the screen. Every few seconds the sheet will
+cut and I encourage you to tear it off and take a look.
+
+The screen is slowly going to 'count' through ALL the possible
+words. Given enough time it will go through them all. Known 
+words are highlighted.
+
+There is also a code on each cut section, and if you figure it
+out I will take you out to dinner. 
